@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K10tGWKEMajUdpS8p+cxH4QuXS9pt4ba7WNNycTui45o/KLJsVscdnM4apgVgCbj86uLr8XqTFK1Zrh2eWACfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\ProgressBarApp\\ProgressBarApp\\ProgressBarApp.iOS\\ProgressBarApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
